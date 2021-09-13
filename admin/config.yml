@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: perldude/oite-research
-  base_url: https://federalistapp.18f.gov
+  base_url: https://federalist-fc119cab-3f09-499f-a440-912f9ac302d9.app.cloud.gov/site/perldude/oite-research
   auth_endpoint: external/auth/github
   preview_context: federalist/build
   branch: main
