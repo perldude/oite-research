@@ -22,8 +22,8 @@ title: OITE Research
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
   18F is researching Netlify for NIH OITE.
-baseurl: "/oite-cms" # the subpath of your site, e.g. /blog
-# url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://federalist-fc119cab-3f09-499f-a440-912f9ac302d9.app.cloud.gov/site/perldude/oite-research" # the base hostname & protocol for your site, e.g. https://example.com.
   # Required to support the jekyll-sitemap plugin below.
   # Uncomment the url line when ready to push to production. If using different branches for multiple
   # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
